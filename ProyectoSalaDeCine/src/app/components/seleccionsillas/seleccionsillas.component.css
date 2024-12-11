@@ -154,10 +154,10 @@ img{
     margin-bottom: 10px;
 }
 
-.seat{
+/* .seat{
     background-image: url('../../Icons/silla.png');
     background-size: cover;
-}
+} */
 
 .date-picker-container{
     width: 200px;
